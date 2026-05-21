@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         豆瓣电影IMDb增强
 // @namespace    http://tampermonkey.net/
-// @version      3.1
-// @description  显示豆瓣电影页面IMDb评分、家长指引标内容，支持链接跳转
+// @version      1.0
+// @description  显示豆瓣电影页面IMDb评分、家长指引内容，支持链接跳转
 // @author       Guy_Bass
 // @match        https://movie.douban.com/subject/*
 // @grant        GM_xmlhttpRequest
