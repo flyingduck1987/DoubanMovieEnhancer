@@ -25,11 +25,11 @@ IMDb家长指引内容框（灰色背景，可折叠）
 
 🔧 安装方法
 
-安装油猴插件（Tampermonkey）
+1.安装油猴插件（Tampermonkey）
 
-点击新建用户脚本
+2.点击新建用户脚本
 
-复制粘贴脚本文件 DoubanMovieEnhancer.js中的代码
+3.复制粘贴脚本文件 DoubanMovieEnhancer.js中的代码
 
 （可选）注册 OMDb API Key 并替换脚本中的 YOUR_API_KEY
 
