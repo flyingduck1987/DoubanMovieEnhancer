@@ -1,7 +1,7 @@
 # DoubanMovieEnhancer
 豆瓣电影IMDb增强
 
-一个油猴脚本（Tampermonkey），为豆瓣电影页面添加IMDb评分和家长指引信息，方便影迷在选择电影时获取更全面的参考。
+一个用AI写的油猴脚本（Tampermonkey），为豆瓣电影页面添加IMDb评分和家长指引信息，方便影迷在选择电影时获取更全面的参考。
 
 ✨ 功能特点
 
