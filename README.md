@@ -13,7 +13,9 @@ IMDb评分显示：在豆瓣电影信息栏直接显示IMDb评分和投票数
 备用方案：支持OMDb API和直接请求两种方式获取评分，确保稳定性
 
 📸 效果预览
+
 ![截图](img.png)
+
 在豆瓣电影页面的信息栏下方，会自动添加：
 
 IMDb评分（橙色显示，含投票数）
@@ -21,11 +23,12 @@ IMDb评分（橙色显示，含投票数）
 IMDb家长指引内容框（灰色背景，可折叠）
 
 🔧 安装方法
+
 安装油猴插件（Tampermonkey）
 
-点击脚本文件 DoubanMovieEnhancer.js
+点击新建用户脚本
 
-在打开的页面中点击"安装"
+复制粘贴脚本文件 DoubanMovieEnhancer.js中的代码
 
 （可选）注册 OMDb API Key 并替换脚本中的 YOUR_API_KEY
 
